@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/OJygRx81)
+[![CI pipeline](https://github.com/Al0sman/l2-github-actions-Al0sman/actions/workflows/workflow.yml/badge.svg)](https://github.com/Al0sman/l2-github-actions-Al0sman/actions/workflows/workflow.yml)
